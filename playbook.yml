@@ -6,4 +6,4 @@
   any_errors_fatal: true
   gather_facts: false
   roles:
-    - ansible-cartridge
+    - ../ansible-cartridge
